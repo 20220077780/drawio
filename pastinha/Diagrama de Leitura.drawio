@@ -154,7 +154,7 @@
         <mxCell id="ai9MgEBuzhq0wdES0TkW-77" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="804.0396787148594" y="376.0732984293194" width="16.230321285140562" height="64.92146596858639" as="geometry" />
         </mxCell>
-        <mxCell id="ai9MgEBuzhq0wdES0TkW-78" value="Time of Sampling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fillColor=none;gradientColor=none;strokeColor=default;dashed=1;dashPattern=1 1;perimeterSpacing=0;glass=0;shadow=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="ai9MgEBuzhq0wdES0TkW-78" value="Sampling Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fillColor=none;gradientColor=none;strokeColor=default;dashed=1;dashPattern=1 1;perimeterSpacing=0;glass=0;shadow=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="32.287901606425706" y="457.22513089005236" width="97.38192771084337" height="64.92146596858639" as="geometry" />
         </mxCell>
         <mxCell id="ai9MgEBuzhq0wdES0TkW-79" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
         <mxCell id="ai9MgEBuzhq0wdES0TkW-86" value="Temperature Request" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190.53353413654617" y="230" width="122.53892570281124" height="64.92146596858639" as="geometry" />
         </mxCell>
-        <mxCell id="ai9MgEBuzhq0wdES0TkW-89" value="Time of Read" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fillColor=none;gradientColor=none;strokeColor=default;dashed=1;dashPattern=1 1;perimeterSpacing=0;glass=0;shadow=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="ai9MgEBuzhq0wdES0TkW-89" value="Reading Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fillColor=none;gradientColor=none;strokeColor=default;dashed=1;dashPattern=1 1;perimeterSpacing=0;glass=0;shadow=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="207.57537148594375" y="475.0785340314136" width="97.38192771084337" height="64.92146596858639" as="geometry" />
         </mxCell>
         <mxCell id="ai9MgEBuzhq0wdES0TkW-90" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
